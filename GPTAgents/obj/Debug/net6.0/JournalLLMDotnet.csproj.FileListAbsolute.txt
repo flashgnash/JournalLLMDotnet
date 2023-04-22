@@ -1,0 +1,12 @@
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.csproj.AssemblyReference.cache
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.AssemblyInfoInputs.cache
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.AssemblyInfo.cs
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.csproj.CoreCompileInputs.cache
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/bin/Debug/net6.0/JournalLLMDotnet.deps.json
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/bin/Debug/net6.0/JournalLLMDotnet.dll
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/bin/Debug/net6.0/ref/JournalLLMDotnet.dll
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/bin/Debug/net6.0/JournalLLMDotnet.pdb
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.dll
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/ref/JournalLLMDotnet.dll
+/home/flashgnash/source/JournalLLMDotnet/GPTAgents/obj/Debug/net6.0/JournalLLMDotnet.pdb
